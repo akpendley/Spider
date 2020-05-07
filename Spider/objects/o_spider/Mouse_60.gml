@@ -1,0 +1,1 @@
+max_cooldown = clamp(--max_cooldown, 0, 100);

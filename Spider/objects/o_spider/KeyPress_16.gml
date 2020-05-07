@@ -1,0 +1,1 @@
+automatic_fire = !automatic_fire;

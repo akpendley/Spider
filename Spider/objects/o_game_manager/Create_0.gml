@@ -1,0 +1,10 @@
+randomize();
+window_set_cursor(cr_none);
+alarm[0] = room_speed * 3;
+depth = 10;
+defeat = false;
+victory = false;
+wave = 1;
+intermission = true;
+alarm[2] = room_speed * 4;
+germs_to_spawn = calculate_next_wave(wave);
